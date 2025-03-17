@@ -20,7 +20,7 @@
 - **Базы данных:** PostgreSQL
 - **IDE:** Jupyter Notebook, Google Colab
   
-## Контакт:
+## Для связи со мной:
 📫 Почта: tatyanna.k19@yandex.ru
   
 
