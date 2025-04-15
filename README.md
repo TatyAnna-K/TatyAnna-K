@@ -1,6 +1,6 @@
 # Hi! 👋
 
-My name is Tatiana, I am a novice data analyst and I will be glad to benefit your business.
+My name is Tatiana, I am a novice data analyst with experience in Excel, SQL, Python and Power BI. I'm passionate about data analysis and finding insights that help me make informed decisions. I strive to develop in the field of data analytics and product analytics and apply my skills to solve real business problems.
 
 ## Сфера интересов:
 - Data Analytics 
@@ -13,16 +13,16 @@ My name is Tatiana, I am a novice data analyst and I will be glad to benefit you
 - Имею опыт работы в бухгалтерии.
 
 ## Стек технологий: 
-- **Языки программирования:** SQL, Python
-- **Табличные редакторы:** Microsoft Excel, Google Sheets
-- **Библиотеки и инструменты анализа данных:** Pandas, NumPy, Matplotlib, Seaborn, Power Query
-- **Инструменты визуализации:** Power BI
-- **Базы данных:** PostgreSQL
-- **IDE:** Jupyter Notebook, Google Colab
+- Языки программирования: SQL, Python
+- Табличные редакторы: Microsoft Excel, Google Sheets
+- Библиотеки и инструменты анализа данных: Pandas, NumPy, Matplotlib, Seaborn, Power Query
+- Инструменты визуализации: Power BI
+- Базы данных: PostgreSQL
+- IDE: Jupyter Notebook, Google Colab
   
 ## Для связи со мной:
-📫 Почта: tatyanna.k19@yandex.ru
-  
+- Email: tatyanna.k19@yandex.ru  
+- `Telegram`: @Tatyanna_kt
 
 
 <!---
